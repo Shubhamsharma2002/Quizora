@@ -1,8 +1,9 @@
 import React from 'react'
+import Quiz from './Components/Quiz/Quiz'
 
 const App = () => {
   return (
-    <div className='text-amber-200 text-3xl'>App</div>
+    <Quiz/> 
   )
 }
 
