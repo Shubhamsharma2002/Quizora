@@ -1,11 +1,8 @@
-import React from 'react'
-import Quiz from './Components/Quiz/Quiz'
+import React from "react";
+import Quiz from "./Components/Quiz/Quiz";
 
 const App = () => {
-  return (
-    
-    <Quiz/> 
-  )
-}
+  return <Quiz />;
+};
 
-export default App
+export default App;
