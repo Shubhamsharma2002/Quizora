@@ -22,9 +22,7 @@ const Quiz = () => {
         Next
       </button>
 
-      <div className="text-sm text-gray-500 mt-4">
-        1 of 5 questions ..
-      </div>
+      <div className="text-sm text-gray-500 mt-4">1 of 5 questions ..</div>
     </div>
   );
 };
