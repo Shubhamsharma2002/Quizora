@@ -20,7 +20,7 @@ const Quiz = () => {
       </ul>
 
       <button className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">
-        Next..
+        Next.....
       </button>
 
       <div className="text-sm text-gray-500 mt-4">1 of 5 questions .</div>
