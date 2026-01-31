@@ -15,7 +15,7 @@ const Quiz = () => {
       <ul className="space-y-2 mb-4">
         <li className="p-2 border rounded">Modem</li>
         <li className="p-2 border rounded">Router</li>
-        <li className="p-2 border rounded">LAN Cable</li>
+        <li className="p-2 border rounded">LAN Cable </li>
         <li className="p-2 border rounded">Pen Drive </li>
       </ul>
 
