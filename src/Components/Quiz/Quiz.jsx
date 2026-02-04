@@ -11,7 +11,7 @@ const Quiz = () => {
 
 
       <h2 className="text-xl font-semibold mb-4">
-        Which device is required for the internet connection .?
+        Which device is required for the internet connection .  ?
       </h2>
 
 
